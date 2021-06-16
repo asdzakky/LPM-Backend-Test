@@ -4,7 +4,9 @@ Please follow my instructions:
 
 Step 1 - Clone Project
 
-git clone this repo
+git clone this repo "git@github.com:asdzakky/LPM-Backend-Test.git"
+
+and then composer install on LPM-Backend-Test folder
 
 Step 2 - Create Database
 
